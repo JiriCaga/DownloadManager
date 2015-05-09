@@ -16,6 +16,8 @@ public class DownloadManager implements DownloadTaskListener{
     private DownloadItem actualDownloading;
     private static DownloadManager manager;
 
+    //remove commments please
+
     /**
      * Private constructor
      * Prevent create own instance managers.
